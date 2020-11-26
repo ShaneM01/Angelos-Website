@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Angelos Brand</title>
+  <link type="text/css" rel="stylesheet" href="Angelos_website.css">
+</head>
+
+<body>
+
+  <!-- Navigation Section -->
+<div class="nav">
+  <nav>
+    <img src="https://cdn.discordapp.com/attachments/630230208485654528/778764720220012555/Angelo_Website.png" />
+    <span><a href="#" target="_ blank">Home Page</a></span>
+    <span><a href="#">Instagram</a></span>
+    <span><a href="#">Buy</a></span>
+  </nav>
+</div>
+  <div class="main_page">
+
+    <!-- Content Header -->
+    
+    <div class="page_header">
+      <h1>Angelo's Brand Here</h1>
+    </div>
+
+    <!-- Content Body -->
+
+    <div class"body">
+      <p>
+       Here is a bunch of nice apparel that Angelo sells!
+      </p>
+
+      <!-- Order Button (Put a link to a page where the order form is!)-->
+
+      <a href="#" class="button">ORDER NOW</a>
+ 
+
+    </div>
+  </div>
+  
+</body>
+</html>
