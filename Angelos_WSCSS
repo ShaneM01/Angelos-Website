@@ -1,0 +1,13 @@
+.main_page {
+	font: Georgia;
+	font-color: #333333;
+	color: #fff;
+}
+
+.page_header {
+	font-color: #4863A0;
+}
+
+.button {
+	color: #4863A0;
+}
